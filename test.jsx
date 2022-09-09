@@ -2,7 +2,8 @@ import React from 'react'
 
 function test() {
   return (
-    <div>test</div>
+    <div>test thou</div>
+
   )
 }
 
